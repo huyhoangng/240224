@@ -1,0 +1,7 @@
+D:\2023-2024\Sem_2\C#\ConsoleApp2\PhoneList_Slot2\bin\Debug\PhoneList_Slot2.exe.config
+D:\2023-2024\Sem_2\C#\ConsoleApp2\PhoneList_Slot2\bin\Debug\PhoneList_Slot2.exe
+D:\2023-2024\Sem_2\C#\ConsoleApp2\PhoneList_Slot2\bin\Debug\PhoneList_Slot2.pdb
+D:\2023-2024\Sem_2\C#\ConsoleApp2\PhoneList_Slot2\obj\Debug\PhoneList_Slot2.csproj.AssemblyReference.cache
+D:\2023-2024\Sem_2\C#\ConsoleApp2\PhoneList_Slot2\obj\Debug\PhoneList_Slot2.csproj.CoreCompileInputs.cache
+D:\2023-2024\Sem_2\C#\ConsoleApp2\PhoneList_Slot2\obj\Debug\PhoneList_Slot2.exe
+D:\2023-2024\Sem_2\C#\ConsoleApp2\PhoneList_Slot2\obj\Debug\PhoneList_Slot2.pdb
